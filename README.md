@@ -44,7 +44,7 @@
 ---
 
 ## 🔗 Connect With Me:
-- 🌐 [Portfolio]([https://emmanueldavidraj.vercel.app](https://davidraj1510.github.io/my_portfolio/))  
+- 🌐 [Portfolio](https://davidraj1510.github.io/my_portfolio/)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/emmeemmanueldavidraj/)  
 - 💻 [GitHub](https://github.com/DavidRaj1510)  
 - 🧠 [LeetCode](https://leetcode.com/u/eedraj2003/)  
